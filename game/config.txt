@@ -1,0 +1,5 @@
+Game_name:期末專案;
+Game_key:4a00dd94883c824;
+Title_img:WebGAL_New_Enter_Image.webp;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
